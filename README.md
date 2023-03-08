@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
 <h3 align="center">Open Source enthusiast and full stack web developer from Turkey / Istanbul.</h3>
+<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=1380&t=st=1678313811~exp=1678314411~hmac=41ff23766679297b66ba9b8e5edd635be693801d28e3e59b404202cb95ff982f" alt="" />
 
 - 🌱 I’m currently learning **Swift**
 
 - 📝 I regularly write articles on [https://medium.com/@oguzhanural](https://medium.com/@oguzhanural)
 
-- ⚡ Fun fact **I like to make people laugh**
+- ⚡ Fun fact **I love cats and i like to make people laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +21,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/oguzhanural"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="oguzhanural" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanural&show_icons=true&locale=en&layout=compact" alt="oguzhanural" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzhanural&show_icons=true&locale=en&layout=compact" alt="oguzhanural" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhanural&show_icons=true&locale=en" alt="oguzhanural" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhanural&" alt="oguzhanural" /></p>
