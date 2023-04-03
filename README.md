@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
 <h3 align="center">Open Source enthusiast and full stack web developer from Turkey.</h3>
-<img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=1380&t=st=1678313811~exp=1678314411~hmac=41ff23766679297b66ba9b8e5edd635be693801d28e3e59b404202cb95ff982f" alt="" />
+<img src="https://res.cloudinary.com/dboyuslx5/image/upload/v1680520478/fiverr_clone/y8ssjbi1bulqvpsopjt6.png" alt="" />
 
 - 🌱 I’m currently learning **Swift**
 
